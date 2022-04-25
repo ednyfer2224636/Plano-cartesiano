@@ -1,4 +1,4 @@
-"""Programa indicar el cuadrante en el plano cartesiano a partir de dos coordenadas (x,y)"""
+"""Programa para indicar el cuadrante en el plano cartesiano a partir de dos coordenadas (x,y)"""
 
 print("----------------------------------------------")
 print("----- PLANO CARTESIANO COORDENADAS (x,y) -----")
